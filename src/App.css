@@ -1,0 +1,15 @@
+.dav {
+    background-color: aqua;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.tofou {
+    width: 300px;
+}
+
+.tofo {
+    width: 300px;
+}
